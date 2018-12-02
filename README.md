@@ -10,7 +10,7 @@ composer require wderic/radarr
 
 ## Example Usage
 ```php
-use wderic\Radarrapi\Radarr;
+use wderic\Radarr\Radarr;
 ```
 ```php
 public function addMovie()

@@ -1,6 +1,6 @@
 <?php
 
-namespace digitalhigh\Radarr;
+namespace wderic\Radarr;
 
 use GuzzleHttp\Client;
 use digitalhigh\Radarr\Exceptions\InvalidException;
