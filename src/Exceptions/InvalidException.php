@@ -1,6 +1,6 @@
 <?php
 
-namespace digitalhigh\Radarr\Exceptions;
+namespace wderic\Radarr\Exceptions;
 
 class InvalidException extends \Exception
 {

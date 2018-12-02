@@ -3,7 +3,7 @@
 namespace wderic\Radarr;
 
 use GuzzleHttp\Client;
-use digitalhigh\Radarr\Exceptions\InvalidException;
+use wderic\Radarr\Exceptions\InvalidException;
 
 class Radarr
 {
